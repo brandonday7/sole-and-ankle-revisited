@@ -16,3 +16,9 @@ export const WEIGHTS = {
   medium: 600,
   bold: 800,
 };
+
+export const BREAKPOINTS = {
+  phoneAndUp: 37.5,
+  tabletAndUp: 59.375,
+  laptopAndUp: 81.25
+}
